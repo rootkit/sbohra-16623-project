@@ -1,8 +1,8 @@
-// Copyright 2016 Sudev Bohra All rights reserved.
-//
-// Created by Sudev Bohra on 12/10/16.
-//
-// Not for commercial use.
+# Copyright 2016 Sudev Bohra All rights reserved.
+#
+# Created by Sudev Bohra on 12/10/16.
+#
+# Not for commercial use.
 
 # This file is used to convert data.npy you get from Caffe-To-Tensorflow repo's 
 # code. This also freezes the constants so that the weights are baked into
