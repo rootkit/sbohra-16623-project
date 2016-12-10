@@ -1,4 +1,4 @@
-# Lightened CNN for Deep Face Verification - TensorFlow Implementation
+## Lightened CNN for Deep Face Verification - TensorFlow Python Implementation
 
 network.py + model.py: This is the tensorflow implementation for inference graph of lightened CNN for Deep Face Verification.
 
