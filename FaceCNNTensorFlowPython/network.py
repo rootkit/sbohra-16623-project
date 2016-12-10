@@ -1,8 +1,8 @@
-// Copyright 2016 Sudev Bohra All rights reserved.
-//
-// Created by Sudev Bohra on 12/10/16.
-//
-// Not for commercial use.
+# Copyright 2016 Sudev Bohra All rights reserved.
+#
+# Created by Sudev Bohra on 12/10/16.
+#
+# Not for commercial use.
 import numpy as np
 import tensorflow as tf
 
