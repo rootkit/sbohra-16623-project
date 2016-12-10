@@ -1,6 +1,8 @@
 # sbohra-16623-project
 Deep Face Verification on iOS - Sudev Bohra
 
+Commercial use not allowed.
+
 ## Background:
 For my project I would like to use a deep network to run facial verification/recognition on live video on an iOS device.
 
